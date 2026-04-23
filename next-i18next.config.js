@@ -1,0 +1,1 @@
+module.exports = {\n  i18n: {\n    defaultLocale: 'fr',\n    locales: ['fr', 'en'],\n    namespaces: ['common', 'home', 'shop', 'booking', 'blog'],\n  },\n};
